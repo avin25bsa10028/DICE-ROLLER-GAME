@@ -1,7 +1,3 @@
-# Dice Roller Game
-# Made by: [Your Name]
-# Class: [Your Class]
-# Roll No: [Your Roll Number]
 
 import tkinter as tk
 from tkinter import messagebox
@@ -185,23 +181,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-# Project Info:
-# This is a dice roller game made using Python and tkinter
-# It can roll 1 to 6 dice at once and shows the total
-# 
-# How it works:
-# - User selects number of dice
-# - Clicks roll button
-# - Dice animate (show random numbers)
-# - Final result is shown
-# - Total is calculated and displayed
-#
-# Libraries used:
-# - tkinter (for GUI)
-# - PIL/Pillow (for making dice images)
-# - random (for random dice numbers)
-#
-# To run: python dice_roller.py
-# (need to install Pillow first: pip install Pillow)
